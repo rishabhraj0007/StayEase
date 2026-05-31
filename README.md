@@ -67,4 +67,4 @@ https://stayease.rf.gd/index.php
 
 ## Author
 
-Rishu
+Rishabh Raj
